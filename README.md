@@ -1,1 +1,1 @@
-"# Algoritmo del perceptr¢n en C#" 
+"# Algoritmo del perceptr√≥n en C#" 
